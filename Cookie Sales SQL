@@ -1,0 +1,5 @@
+# Imported data into BigQuery
+
+SELECT *
+FROM `hybrid-shelter-345003.cookies.cookie_sales`
+
